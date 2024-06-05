@@ -3,5 +3,6 @@
 data
 *.pth
 *.csv
+*.csv.zip
 *.json
 *.json.zip
