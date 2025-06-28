@@ -1,6 +1,7 @@
+data
+torch/tutorial/
 .DS_Store
 .ipynb_checkpoints
-data
 *.pth
 *.csv
 *.csv.zip
